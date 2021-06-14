@@ -1,0 +1,17 @@
+body {
+    background: blue;
+    margin-left: 20px;
+}
+
+header {
+    display:flex;
+}
+
+h1 {
+    color:bisque;
+    font-size: 48px;
+}
+
+p {
+    font-size: 28px;
+}
