@@ -1,0 +1,14 @@
+body {
+    background: blue;
+    color:aliceblue;
+}
+
+header {
+    height: 20vh;
+    display: flex;
+}
+
+.img {
+    height:fit-content;
+    width:fit-content;
+}
