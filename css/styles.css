@@ -3,9 +3,13 @@ body {
     color:aliceblue;
 }
 
-header {
+.header-container {
     height: 20vh;
     display: flex;
+}
+
+.header-div {
+    width: 50%;
 }
 
 .img {
