@@ -1,14 +1,16 @@
 body {
-    background: blue;
-    color:aliceblue;
+    background: blue;    
+    margin-bottom: 0%;     
+    margin-top: 0%;
+    background-image: url(/CSS/images/A-Christian-cross-by-Waiting-For-The-Word-750x375.jpg);
+    background-position: center;
 }
-
+    
 .header-container {
     height: 15vh;
     display: flex;
+    flex-direction: row-reverse;
     width: 100%;
-    margin-bottom: 0%;    
-    background-image: url(/CSS/images/A-Christian-cross-by-Waiting-For-The-Word-750x375.jpg);
 }
 
 .header-div {
