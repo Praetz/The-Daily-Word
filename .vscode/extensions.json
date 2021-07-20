@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "formulahendry.auto-close-tag"
+        "formulahendry.auto-close-tag",
+        "ritwickdey.liveserver"
     ]
 }
